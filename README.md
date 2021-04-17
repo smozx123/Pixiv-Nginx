@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/mashirozx/Pixiv-Nginx.svg?style=flat-square)](https://github.com/mashirozx/Pixiv-Nginx/releases/latest)
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/mashirozx/Pixiv-Nginx/latest.svg?style=flat-square)](https://github.com/mashirozx/Pixiv-Nginx/commits/)
 
-使用说明见 <https://2heng.xin/2017/09/19/pixiv/>
+
 
 请在[此处](https://github.com/mashirozx/Pixiv-Nginx/releases)下载稳定版`Source code
 (zip)`；或者在本页点击下图所示的按键下载以获取最新版。
